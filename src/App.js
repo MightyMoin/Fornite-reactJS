@@ -12,9 +12,9 @@ function App() {
     <Router>
       <Nav></Nav>
         <Switch>
-          <Route path="/" exact component={Home} />
-          <Route path="/items" exact component={Items} />
-          <Route path="/items/:id" component={Item} />
+          <Route path="/Fornite-reactJS" exact component={Home} />
+          <Route path="/Fornite-reactJS/items" exact component={Items} />
+          <Route path="/Fornite-reactJS/items/:id" component={Item} />
         </Switch>
       </Router>
     </div>

@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 1rem;
+}
+
+@include media-breakpoint-up(sm) {
+  html {
+    font-size: 1.2rem;
+  }
+}
+
+@include media-breakpoint-up(md) {
+  html {
+    font-size: 1.4rem;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  html {
+    font-size: 1.6rem;
+  }
+}
+.card-img-top {
+  width: 70% !important;
+  margin: auto;
+}
+.card {
+  background-color: #ecf4f34b;
+  transition-duration: 0.3s;
+}
+@media screen and (min-width: 577px) {
+  .card:hover {
+    background-color: #ecf4f3c7;
+    margin-top: -4px !important;
+    box-shadow: 1px 10px 13px #3f44413b;
+  }
+}
+.items p span{
+    text-transform: capitalize;
+    margin-left: 5px;
+}

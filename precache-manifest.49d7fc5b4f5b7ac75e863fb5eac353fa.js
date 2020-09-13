@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f783154dc07c32c12e634931b18eb68",
+    "revision": "75f46192b801a8a501237d02314ea854",
     "url": "/Fornite-reactJS/index.html"
   },
   {
-    "revision": "058491cde9451231dcb1",
+    "revision": "56b691c1740811a1a0f2",
     "url": "/Fornite-reactJS/static/css/main.f8d92ba2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Fornite-reactJS/static/js/2.981f3d3e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "058491cde9451231dcb1",
-    "url": "/Fornite-reactJS/static/js/main.7bfdf471.chunk.js"
+    "revision": "56b691c1740811a1a0f2",
+    "url": "/Fornite-reactJS/static/js/main.a463e30c.chunk.js"
   },
   {
     "revision": "4243ad5313cbae855243",

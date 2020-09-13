@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Fornite-reactJS/static/css/main.f8d92ba2.chunk.css",
-    "main.js": "/Fornite-reactJS/static/js/main.7bfdf471.chunk.js",
-    "main.js.map": "/Fornite-reactJS/static/js/main.7bfdf471.chunk.js.map",
+    "main.js": "/Fornite-reactJS/static/js/main.a463e30c.chunk.js",
+    "main.js.map": "/Fornite-reactJS/static/js/main.a463e30c.chunk.js.map",
     "runtime-main.js": "/Fornite-reactJS/static/js/runtime-main.ca536606.js",
     "runtime-main.js.map": "/Fornite-reactJS/static/js/runtime-main.ca536606.js.map",
     "static/js/2.981f3d3e.chunk.js": "/Fornite-reactJS/static/js/2.981f3d3e.chunk.js",
     "static/js/2.981f3d3e.chunk.js.map": "/Fornite-reactJS/static/js/2.981f3d3e.chunk.js.map",
     "index.html": "/Fornite-reactJS/index.html",
-    "precache-manifest.a030b05673051a4a890b76df80e2178a.js": "/Fornite-reactJS/precache-manifest.a030b05673051a4a890b76df80e2178a.js",
+    "precache-manifest.49d7fc5b4f5b7ac75e863fb5eac353fa.js": "/Fornite-reactJS/precache-manifest.49d7fc5b4f5b7ac75e863fb5eac353fa.js",
     "service-worker.js": "/Fornite-reactJS/service-worker.js",
     "static/css/main.f8d92ba2.chunk.css.map": "/Fornite-reactJS/static/css/main.f8d92ba2.chunk.css.map",
     "static/js/2.981f3d3e.chunk.js.LICENSE.txt": "/Fornite-reactJS/static/js/2.981f3d3e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ca536606.js",
     "static/js/2.981f3d3e.chunk.js",
     "static/css/main.f8d92ba2.chunk.css",
-    "static/js/main.7bfdf471.chunk.js"
+    "static/js/main.a463e30c.chunk.js"
   ]
 }
